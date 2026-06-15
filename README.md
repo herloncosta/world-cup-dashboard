@@ -2,6 +2,8 @@
 
 Full-stack SPA for exploring FIFA World Cup 2026 data — group standings, fixtures, top scorers, team profiles, and the knockout bracket.
 
+![World Cup 2026 Dashboard](example.png)
+
 ## Features
 
 - **Dashboard** — Hero with dynamic countdown, stories bar (48 team flags), recent matches, group standings, top scorers
