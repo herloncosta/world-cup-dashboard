@@ -39,8 +39,8 @@
               >
             </h2>
           </div>
-          <div class="p-4 overflow-x-auto">
-            <table class="w-full text-sm min-w-[400px]">
+          <div class="p-4 overflow-x-auto md:overflow-visible">
+            <table class="w-full text-sm">
               <thead>
                 <tr class="text-muted border-b border-border">
                   <th class="py-2 pr-2 text-left font-medium w-5">#</th>
